@@ -1,4 +1,4 @@
-# The-Django-Bible
+# the django bible
 
 <p align="center">
   <img src="https://i.pinimg.com/474x/83/da/c4/83dac43782b7e0d5692d115397ebb2a8.jpg">
